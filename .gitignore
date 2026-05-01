@@ -5,6 +5,7 @@ __pycache__/
 
 aquarium.yaml
 aquarium_dataset/
+data/
 saved_models/
 test_images
 build/
